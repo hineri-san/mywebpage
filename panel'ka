@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Личная страница Вики Каримовой</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница и контакты">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+</head>
+
+<body>
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/index.html">Страница курса</a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/baling_2018_1.html">Страница группы</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+  <p></p>
+  
+<header style = "background-color: LightSkyBlue; padding-top: 25px; border: 25px solid LightCyan; outline: 10 px solid LightSkyBlue">
+<div class="container" outline: 10 px>
+<div class="row">
+<div class="col-md-4">
+<br>
+<br>
+  <h1>Вика Каримова</h1>
+  <hr>
+  <i>Панелечный романтик</i>
+  </div>
+  
+   <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg"/></a>
+  <ul>
+    <li><a href="#introduction">Обо мне</a></li>
+    <li><a href="#habitat">Где обитаю</a></li>
+    <li><a href="#media">Активный пользователь соцсетей</a></li>
+  </ul>
+  <div id="introduction">
+    <h2>Обо мне</h2>
+    <p>- Отучилась в РЭУ им. Г.В.Плеханова год и ушла оттуда с четырьмя пересдачами на 2 курсе; <br>
+	- Развожу туркменских тараканов, чтобы кормить ими тарантулов;<br>
+	- До первого урока итальянского считала, что слова "cocodrillo" не существует </p>
+	</p>
+    <a href="https://instagram.com/hineri_" target="_blank">Узнать о моей жизни чуть больше</a>
+    <h3>Хобби</h3>
+    <ul>
+      <li>Лазаю по заброшкам</li>
+      <li>Фотографирую</li>
+      <li>Путешествую по России, чтобы лазать по заброшкам и фотографировать</li>
+    </ul>
+    <h3>Прочие приколюхи</h3>
+    <p><i>Если и отсюда выгонят, пойдешь учиться на венеролога. (с) Бабушка</i></p>
+  </div>
+  <div id="habitat">
+    <h2>Где обитаю</h2>
+	<p>До 18 лет - в Уфе, сейчас в прекрасном районе Люблино города Москвы.<br> Иногда мне кажется, что в Уфе было лучше.</p>
+  </div>
+  <div id="media">
+    <h2>Безбожный пиар инсты</h2>
+    
+  </div>
+  </header>
+</body>
+
+</html>
